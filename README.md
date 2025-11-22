@@ -66,11 +66,7 @@
 > ***“The more you fear something, the more likely it will happen.” — Murphy’s Law***
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  </picture>
+    ![snake gif](https://github.com/mjmarciio/mjmarciio/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div align="center">
